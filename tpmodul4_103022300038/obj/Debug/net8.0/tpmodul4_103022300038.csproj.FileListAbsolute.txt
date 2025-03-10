@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\tpmodul4_103022300038\tpmodul4_103022300038\bin\Debug\net8.0\tpmodul4_103022300038.exe
+C:\Users\ASUS\source\repos\tpmodul4_103022300038\tpmodul4_103022300038\bin\Debug\net8.0\tpmodul4_103022300038.deps.json
+C:\Users\ASUS\source\repos\tpmodul4_103022300038\tpmodul4_103022300038\bin\Debug\net8.0\tpmodul4_103022300038.runtimeconfig.json
+C:\Users\ASUS\source\repos\tpmodul4_103022300038\tpmodul4_103022300038\bin\Debug\net8.0\tpmodul4_103022300038.dll
+C:\Users\ASUS\source\repos\tpmodul4_103022300038\tpmodul4_103022300038\bin\Debug\net8.0\tpmodul4_103022300038.pdb
+C:\Users\ASUS\source\repos\tpmodul4_103022300038\tpmodul4_103022300038\obj\Debug\net8.0\tpmodul4_103022300038.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\tpmodul4_103022300038\tpmodul4_103022300038\obj\Debug\net8.0\tpmodul4_103022300038.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\tpmodul4_103022300038\tpmodul4_103022300038\obj\Debug\net8.0\tpmodul4_103022300038.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\tpmodul4_103022300038\tpmodul4_103022300038\obj\Debug\net8.0\tpmodul4_103022300038.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\tpmodul4_103022300038\tpmodul4_103022300038\obj\Debug\net8.0\tpmodul4_103022300038.sourcelink.json
+C:\Users\ASUS\source\repos\tpmodul4_103022300038\tpmodul4_103022300038\obj\Debug\net8.0\tpmodul4_103022300038.dll
+C:\Users\ASUS\source\repos\tpmodul4_103022300038\tpmodul4_103022300038\obj\Debug\net8.0\refint\tpmodul4_103022300038.dll
+C:\Users\ASUS\source\repos\tpmodul4_103022300038\tpmodul4_103022300038\obj\Debug\net8.0\tpmodul4_103022300038.pdb
+C:\Users\ASUS\source\repos\tpmodul4_103022300038\tpmodul4_103022300038\obj\Debug\net8.0\tpmodul4_103022300038.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\tpmodul4_103022300038\tpmodul4_103022300038\obj\Debug\net8.0\ref\tpmodul4_103022300038.dll
